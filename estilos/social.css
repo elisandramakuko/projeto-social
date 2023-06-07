@@ -7,10 +7,10 @@
         }
 
         /*Esconde a barra de rolagem*/
-        /*::-webkit-scrollbar {
+        ::-webkit-scrollbar {
             width: 0px;
             height: 0px;
-        }*/
+        }
         img {
             width: 100vw;
         }
